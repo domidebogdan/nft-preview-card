@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [frontendmentor.io dbd-nft](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/nft-preview-card-aklPdHi83C)
+- Solution URL: [frontendmentor.io dbd-nft](https://www.frontendmentor.io/solutions/nft-preview-card-aklPdHi83C)
 - Live Site URL: [dbd-nft.netlify.app](https://dbd-nft.netlify.app/)
 
 ## My process
