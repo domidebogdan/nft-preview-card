@@ -33,7 +33,7 @@ main {
   background-color: var(--color-neutral-very-dark-blue-card);
   border-radius: 0.938rem;
   padding: 1.25rem;
-  box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.5);
+  box-shadow: 0 1rem 6rem rgba(0, 0, 0, 0.5);
   margin-bottom: 6rem;
 }
 .card-image {
@@ -55,7 +55,7 @@ main {
   justify-content: center;
   opacity: 0;
 }
-.img-overlay:hover {
+.img-overlay:hover, .img-overlay:active {
   opacity: 1;
 }
 .card-image img {
@@ -69,7 +69,7 @@ main {
   margin-block: 1.25rem;
   font-weight: 600;
 }
-.title:hover {
+.title:hover , .title:active {
   color: var(--color-primary-cyan);
 }
 
@@ -126,7 +126,7 @@ main {
 .author a {
   color: var(--color-neutral-white);
 }
-.author a:hover {
+.author a:hover , .author:active{
   color: var(--color-primary-cyan);
 }
 .attribution {
